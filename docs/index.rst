@@ -5,7 +5,7 @@ How to Update Magellan GPS? 🛰️📍
 If you're still relying on an outdated **Magellan GPS**, it's time to give it a little refresh! 🧽 Whether you’re using a classic Magellan RoadMate or one of their newer models, updating your device ensures you have access to accurate maps, traffic data, and location services. In this guide, you’ll learn how to **update Magellan GPS** in a few easy steps — and why it matters more than ever! 🚀
 
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
